@@ -15,7 +15,7 @@ namespace StudentManagement.Controllers
             return View();
         }
     }
-    public class testStudent
+    public class testStudentRAW
     {
 
     }
