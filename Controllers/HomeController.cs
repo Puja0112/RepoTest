@@ -15,4 +15,8 @@ namespace StudentManagement.Controllers
             return View();
         }
     }
+    public class Student
+    {
+
+    }
 }

@@ -89,3 +89,9 @@ D:\Practise\StudentManagement\StudentManagement\bin\EntityFramework.xml
 D:\Practise\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.xml
 D:\Practise\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Migrations.Initial.resources
 D:\Practise\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+E:\Practise\Practise\Sample\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojAssemblyReference.cache
+E:\Practise\Practise\Sample\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Migrations.Initial.resources
+E:\Practise\Practise\Sample\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+E:\Practise\Practise\Sample\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+E:\Practise\Practise\Sample\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+E:\Practise\Practise\Sample\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
