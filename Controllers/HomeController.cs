@@ -15,8 +15,10 @@ namespace StudentManagement.Controllers
             return View();
         }
     }
-    public class Student
+    public class testStudent
     {
 
     }
+
+    
 }
